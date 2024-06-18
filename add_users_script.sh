@@ -12,3 +12,5 @@ for user in "${users[@]}"; do
         echo "Користувач $user створений"
     fi
 done
+
+
