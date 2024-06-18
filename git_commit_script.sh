@@ -11,3 +11,5 @@ git remote add origin git@github.com:AnatolyStefanyshen/LAB2_OSSP.git
 git add .
 git commit -m "Initial commit"
 git push --set-upstream origin master
+
+
